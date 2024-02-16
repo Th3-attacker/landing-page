@@ -1,4 +1,6 @@
 # Lading-page  
+
+
 # technology used 
     -React-js
     -TypeScript
@@ -17,4 +19,4 @@ Currently, two official plugins are available:
 
 
 
-![Uploading Capture d'écran du 2024-02-16 16.11.39.png…]()
+![Captures d'écran de 2024-02-16 16 11 01](https://github.com/Th3-attacker/landing-page/assets/47328817/377f1068-ee04-4321-9798-8d39482dc4f5)
