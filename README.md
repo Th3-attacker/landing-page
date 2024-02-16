@@ -17,4 +17,4 @@ Currently, two official plugins are available:
 
 
 
-![Captures d'écran de 2024-02-16 16 11 01](https://github.com/Th3-attacker/landing-page/assets/47328817/ef7a8bc6-df77-4ace-8dff-38bf47e315f7)
+![Uploading Capture d'écran du 2024-02-16 16.11.39.png…]()
