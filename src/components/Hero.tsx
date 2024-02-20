@@ -42,7 +42,7 @@ export const Navbar: React.FC = () => {
           <a href="">Help me</a>
         </li>
       </ul>
-      <button className=" hidden sm:block bg-white py-2 px-4 rounded-full">
+      <button className="hidden sm:block bg-white py-2 px-4 rounded-full">
         Download the app
       </button>
       {/* mobile version */}
@@ -58,7 +58,7 @@ export const Navbar: React.FC = () => {
             toggleMenu ? "flex" : "hidden"
           } p-4 bg-gray-800 top-16 mx-4 right-0 rounded-xl absolute w-2/3 min-w-[120px] h-2/3 bg-opacity-80`}
         >
-          <ul className="list-none justify-start space-y-8 items-center flex flex-col flex-1 text-center">
+          <ul className="list-none justify-center space-y-8 items-center flex flex-col flex-1 text-center">
             <li className="hover:bg-gray-300 hover:bg-opacity-50 hover:text-gray-800 text-gray-300 font-bold  rounded-full py-2 px-3 w-full">
               <a href="">Features</a>
             </li>
@@ -74,9 +74,9 @@ export const Navbar: React.FC = () => {
             <li className="w-full hover:bg-gray-300 hover:bg-opacity-50 hover:text-gray-800 text-gray-300 font-bold  rounded-full py-2 px-3">
               <a href="">Help me</a>
             </li>
-            <button className=" sm:hidden block bg-white py-2 px-4 rounded-full">
+            {/* <button className=" sm:hidden block bg-white py-2 px-4 rounded-full">
               Download the app
-            </button>
+            </button> */}
           </ul>
         </div>
       </div>
@@ -99,7 +99,7 @@ export const SmallContainer: React.FC = () => {
           <br className="hidden sm:block" />
           Unde soluta esttotam.Unde soluta est totam
         </p>
-        <div className="space-x-2 sm:space-x-4 sm:block flex items-center">
+        <div className="space-x-2 sm:space-x-4 justify-center sm:block flex items-center">
           <button className=" text-[10px] sm:text-xl bg-white hover:text-white py-2 px-3 rounded-full hover:bg-transparent ">
             Download the app
           </button>

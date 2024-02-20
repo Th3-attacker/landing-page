@@ -8,11 +8,11 @@ import zendesk from "../assets/icons/zendesk-logo.png";
 
 const Brands: React.FC = () => {
   return (
-    <div className="w-1/2 mx-auto text-center space-y-6 h-[200px] pt-10">
+    <div className="w-1/2 mx-auto text-center space-y-6 h-[200px] pt-10 mt-32 overflow-hidden">
       <p className="text-gray-300">
         Trusted by teams at over 1,000 of the world’s leading organizations
       </p>
-      <div className="flex items-center justify-between mx-auto">
+      <div className="space-x-4 flex items-center justify-between animate-scroll-left infinite ">
         <img src={dell} alt="dell" />
         <img src={zendesk} alt="zendesk" />
         <img src={rakuten} alt="rakuten" />

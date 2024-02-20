@@ -1,7 +1,7 @@
 import logo from "../assets/icons/logo.png";
 const Footer: React.FC = () => {
   return (
-    <footer className="flex p-20 justify-between ">
+    <footer className=" sm:flex p-10 sm:p-20 justify-between space-y-8 text-center sm:text-left">
       <div className="column1 space-y-8">
         <div className="text-gray-500 space-y-2">
           <h2 className="text-white font-bold text-2xl">Contact</h2>

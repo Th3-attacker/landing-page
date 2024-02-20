@@ -6,7 +6,7 @@ import { Section } from "./components/Section";
 
 function App() {
   return (
-    <div className="w-full h-screen p-0 m-0">
+    <div className="w-full h-screen p-0 m-0 ">
       <Hero />
       <Brands />
       <Section />
